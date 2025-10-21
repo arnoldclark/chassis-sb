@@ -1,5 +1,5 @@
 {
-  "name": "chassis-storybook",
+  "name": "chassis-sb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,8 +13,10 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "@storybook/addon-a11y": "^9.1.13",
     "@storybook/addon-docs": "^9.1.13",
     "@storybook/html-vite": "^9.1.13",
+    "classnames": "^2.5.1",
     "storybook": "^9.1.13"
   }
 }
