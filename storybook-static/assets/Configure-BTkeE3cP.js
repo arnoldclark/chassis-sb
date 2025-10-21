@@ -1,0 +1,5 @@
+import{j as s,M as i}from"./blocks-YC0rPboy.js";import{useMDXComponents as e}from"./index-XH5xqkCv.js";import"./preload-helper-PPVm8Dsz.js";import"./_commonjsHelpers-CqkleIqs.js";import"./iframe-HZpRnS9Z.js";function o(n){const t={p:"p",...e(),...n.components};return s.jsxs(s.Fragment,{children:[s.jsx(i,{title:"Chassis Storybook"}),`
+`,s.jsxs("div",{class:"sb-unstyled ch-container",children:[s.jsx("h1",{children:"Welcome to Chassis Storybook"}),s.jsx("p",{children:s.jsx(t.p,{children:`Chassis provides a consistent styling base layer across all Arnold Clark web
+applications, along with commonly used components and utility classes. While
+it provides styling for component states, it doesn't include JavaScript
+functionality.`})}),s.jsx("p",{children:"You can request Chassis from our shared asset hosting, or download and include the CSS file in your application's assets. "})]})]})}function p(n={}){const{wrapper:t}={...e(),...n.components};return t?s.jsx(t,{...n,children:s.jsx(o,{...n})}):o(n)}export{p as default};
