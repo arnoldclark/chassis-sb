@@ -9,6 +9,5 @@ const config = {
     name: "@storybook/html-vite",
     options: {},
   },
-  base: "/chassis-sb/",
 };
 export default config;
